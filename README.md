@@ -42,7 +42,7 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 ---
 
 <h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/leocode"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leocode" /></a><a href="https://ko-fi.com/leocode"> <img align="center" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="leocode" /></a></p><br><br>
+<p align="center"><a href="https://www.buymeacoffee.com/leocode"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="leocode" /></a><a href="https://ko-fi.com/leocode"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="leocode" /></a></p><br><br>
 
 ---
 
