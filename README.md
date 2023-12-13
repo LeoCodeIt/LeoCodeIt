@@ -55,6 +55,7 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 
 <h3 align="center">FAQ</h3>
 <p alig="center">
+### Indice
 1. [Domanda 1](#domanda-1)
 2. [Domanda 2](#domanda-2)
 3. [Domanda 3](#domanda-3)
