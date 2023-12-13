@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leonardo</h1>
-<h3 align="center">🚀 Sviluppatore Web Appassionato e Innovatore nel Cuore | Creo Soluzioni Digitali Che Fanno la Differenza</h3>
+<h3 align="center">🚀 Passionate Web Developer and Innovator at Heart | I Create Digital Solutions That Make a Difference</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=leocodeit" alt="leocodeit" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://www.leocode.it/blog](https://www.leocode.it/blog)
 
-- 💬 Ask me about **react, HTML, CSS, Javascript, etc**
+- 💬 Ask me about **React, Python, HTML, CSS, Javascript, etc**
 
 - 📫 How to reach me **info@leocode.it**
 
