@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="center">## 👨‍💻 About me</h3>
+<h3 align="center">👨‍💻 About me</h3>
 <p align="center">Hello! I'm Leonardo, a passionate Full-Stack Web Developer with a knack for crafting engaging and user-friendly digital experiences. With a background in both front-end and back-end technologies, I've developed a diverse skill set that includes working with HTML, CSS, JavaScript, React for the front-end, and Node.js, Express, and various database technologies for the back-end. I embarked on my journey as a developer after discovering my love for coding and the satisfaction of bringing ideas to life through programming. My goal is always to build applications that are not only aesthetically pleasing but also functionally robust and scalable. My experience ranges from working on small-scale projects for local businesses to contributing to larger, more complex applications. I'm particularly interested in the power of e-commerce platforms and have a keen interest in optimizing user experience for online shopping portals.
 I'm a lifelong learner, constantly exploring new technologies and methodologies to enhance my skill set. When I'm not coding, you'll find me tinkering with gadgets, exploring the latest tech trends, or contributing to open-source projects.
 Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate or just have a chat about tech!</p>
