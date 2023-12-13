@@ -55,22 +55,28 @@ Feel free to check out my repositories and don't hesitate to reach out if you'd 
 
 <h3 align="center">FAQ</h3>
 <p align="center">
-
-
-#### Domanda 1
-*Come posso utilizzare i tuoi progetti?*
-<details>
-<summary>Risposta</summary>
-Puoi clonare i repository che ti interessano, seguire le istruzioni di installazione nel README di ciascun progetto e iniziare a sperimentare. Se hai domande specifiche, sentiti libero di aprire un'issue.
-</details>
-
-#### Domanda 2
-*Sei disponibile per collaborazioni o progetti freelance?*
-<details>
-<summary>Risposta</summary>
-Sì, sono sempre interessato a esplorare nuove opportunità. Per favore, contattami tramite email per discutere ulteriormente.
-</details>
+  <b>How can I use your projects?</b>
+  <details>
+    <summary>Answer</summary>
+    You can clone the repositories that interest you, follow the installation instructions in the README of each project, and start experimenting. If you have specific questions, feel free to open an issue.
+  </details>
+  <b>Are you available for collaborations or freelance projects?</b>
+  <details>
+    <summary>Answer</summary>
+    Yes, I am always interested in exploring new opportunities. Please contact me via <strong>email</strong> to discuss further.
+  </details>
+  <b>Can I contribute to your projects?</b>
+  <details>
+    <summary>Answer</summary>
+    Absolutely! I am happy to receive contributions. You can start by examining open issues or suggesting new features or improvements.
+  </details>
+  <b>What are my areas of specialization as a full-stack developer?</b>
+  <details>
+    <summary>Answer</summary>
+    I mainly focus on API integration (VTEX, WordPress, Shopify, Salesforce, Payment Systems, etc.), Python, Shopify APP, and customizing code to enhance UX and UI, but I am always open to exploring new technologies and frameworks.
+  </details>
 </p>
+
 
 ---
 
