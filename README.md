@@ -10,7 +10,7 @@
 I'm a lifelong learner, constantly exploring new technologies and methodologies to enhance my skill set. When I'm not coding, you'll find me tinkering with gadgets, exploring the latest tech trends, or contributing to open-source projects.
 Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate or just have a chat about tech!</p>
 
-<p align="center"><strong>Per saperne di più su di me o per metterti in contatto, visita il mio profilo Social (https://direct.me/leopdev)</strong>.
+<p align="center"><strong>To learn more about me or to get in touch, visit my Social profile (https://direct.me/leopdev)</strong>.
 
 
 ---
