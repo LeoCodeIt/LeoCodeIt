@@ -6,9 +6,33 @@
 ---
 
 <h3 align="center">👨‍💻 About me</h3>
-<p align="center">Hello! I'm <strong>Leonardo</strong>, a passionate <strong>Full-Stack Web Developer</strong> with a knack for crafting engaging and user-friendly digital experiences. With a background in both front-end and back-end technologies, I've developed a diverse skill set that includes working with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React for the front-end</strong>, and <strong>Node.js</strong>, <strong>Express</strong>, and various <strong>database</strong> technologies for the back-end. I embarked on my journey as a developer after discovering my love for coding and the satisfaction of bringing ideas to life through programming. My goal is always to build applications that are not only aesthetically pleasing but also functionally robust and scalable. My experience ranges from working on small-scale projects for local businesses to contributing to larger, more complex applications. I'm particularly interested in the power of <strong>e-commerce platforms</strong> and have a keen interest in optimizing user experience for online shopping portals.
-I'm a lifelong learner, constantly exploring new technologies and methodologies to enhance my skill set. When I'm not coding, you'll find me tinkering with gadgets, exploring the latest tech trends, or contributing to open-source projects.
-Feel free to check out my repositories and don't hesitate to reach out if you'd like to collaborate or just have a chat about tech!</p>
+<p align="center">
+Hello! I'm <strong>Leonardo</strong>, a certified <strong>Shopify Expert</strong> and <strong>VTEX Certified Developer</strong> with a deep passion for building scalable and high-performing e-commerce solutions.  
+I help merchants, brands, and agencies create custom storefronts, apps, and automation tools using platforms like <strong>Shopify (Plus)</strong> and <strong>VTEX IO</strong>.  
+With a strong background in <strong>front-end</strong> and <strong>back-end</strong> technologies, my stack includes <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>, <strong>Python</strong>, and <strong>GraphQL</strong>.
+
+<br><br>
+
+🛍️ I specialize in:
+<ul align="center">
+  <li>Custom Shopify theme & app development</li>
+  <li>Shopify Plus automation & international pricing</li>
+  <li>Metafields, Bulk Operations & API integrations</li>
+  <li>VTEX store customization using VTEX IO & GraphQL</li>
+  <li>Third-party integrations (ERP, CRM, marketplaces, Klaviyo, etc.)</li>
+</ul>
+
+🚀 I love transforming business needs into powerful digital solutions that scale.
+
+<br><br>
+<strong>📛 Certifications & Badges</strong><br>
+<img src="https://img.shields.io/badge/Shopify%20Expert-Certified-brightgreen?logo=shopify&style=for-the-badge" alt="Shopify Expert Badge" />
+<img src="https://img.shields.io/badge/VTEX%20Developer-Certified-purple?logo=vtex&style=for-the-badge" alt="VTEX Certified Badge" />
+
+<br><br>
+Whether you're launching a new store, building a custom app, or optimizing performance — <strong>let's build something powerful together!</strong>
+</p>
+
 
 <p align="center"><strong>To learn more about me or to get in touch, visit my Social profile (https://direct.me/leopdev)</strong>.
 
