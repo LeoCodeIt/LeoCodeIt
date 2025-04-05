@@ -7,27 +7,31 @@
 
 <h3 align="center">👨‍💻 About me</h3>
 <p align="center">
-Hello! I'm <strong>Leonardo</strong>, a certified <strong>Shopify Expert</strong> and <strong>VTEX Certified Developer</strong> with a deep passion for building scalable and high-performing e-commerce solutions.  
-I help merchants, brands, and agencies create custom storefronts, apps, and automation tools using platforms like <strong>Shopify (Plus)</strong> and <strong>VTEX IO</strong>.  
-With a strong background in <strong>front-end</strong> and <strong>back-end</strong> technologies, my stack includes <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>, <strong>Python</strong>, and <strong>GraphQL</strong>.
-
+Hello! I'm <strong>Leonardo</strong>, a certified <strong>Shopify Expert</strong> and <strong>VTEX Developer</strong> passionate about building scalable, high-performing e-commerce experiences.  
+I help merchants, agencies, and brands create custom storefronts, apps, and automations using <strong>Shopify (Plus)</strong> and <strong>VTEX IO</strong>.  
 <br><br>
+With a background in both front-end and back-end development, I work daily with <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>, <strong>Python</strong>, and <strong>GraphQL</strong>.
+</p>
 
-🛍️ I specialize in:
-<ul align="center">
-  <li>Custom Shopify theme & app development</li>
-  <li>Shopify Plus automation & international pricing</li>
-  <li>Metafields, Bulk Operations & API integrations</li>
-  <li>VTEX store customization using VTEX IO & GraphQL</li>
-  <li>Third-party integrations (ERP, CRM, marketplaces, Klaviyo, etc.)</li>
-</ul>
+<h4 align="center">🛠 Specialized in</h4>
+<p align="center">
+Custom Shopify themes & apps<br>
+Shopify Plus automation & international pricing<br>
+Metafields, bulk operations & GraphQL API<br>
+VTEX store customization with VTEX IO<br>
+Third-party integrations (ERP, CRM, marketplaces, Klaviyo, etc.)
+</p>
 
-🚀 I love transforming business needs into powerful digital solutions that scale.
+<h4 align="center">📛 Certifications & Badges</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Shopify%20Expert-Certified-brightgreen?logo=shopify&style=for-the-badge" alt="Shopify Expert Badge" />
+  <img src="https://img.shields.io/badge/VTEX%20Developer-Certified-purple?logo=vtex&style=for-the-badge" alt="VTEX Certified Badge" />
+</p>
 
-<br><br>
-<strong>📛 Certifications & Badges</strong><br>
-<img src="https://img.shields.io/badge/Shopify%20Expert-Certified-brightgreen?logo=shopify&style=for-the-badge" alt="Shopify Expert Badge" />
-<img src="https://img.shields.io/badge/VTEX%20Developer-Certified-purple?logo=vtex&style=for-the-badge" alt="VTEX Certified Badge" />
+<p align="center">
+🚀 I love turning complex needs into powerful digital solutions. Let's build something great together!
+</p>
+
 
 <br><br>
 Whether you're launching a new store, building a custom app, or optimizing performance — <strong>let's build something powerful together!</strong>
