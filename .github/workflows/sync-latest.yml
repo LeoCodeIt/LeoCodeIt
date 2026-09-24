@@ -1,0 +1,38 @@
+name: Sync latest from codepunklab.com
+
+on:
+  schedule:
+    # Mondays, 06:17 UTC. Off the hour on purpose: scheduled runs queue behind
+    # everyone else's cron when they all ask for :00.
+    - cron: '17 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Regenerate the block
+        run: node scripts/sync-latest.mjs
+
+      # Only a real change is committed. A weekly empty commit would inflate the
+      # contribution graph with activity that did not happen.
+      - name: Commit if the block changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo "Nothing changed — no commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "Sync latest content from codepunklab.com"
+          git push
