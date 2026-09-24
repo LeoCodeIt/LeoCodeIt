@@ -70,10 +70,10 @@ Case studies and architecture patterns from real projects, anonymised. This list
 
 <!-- latest:start -->
 - **[Italian Electronic Invoice Data Collection at Checkout for a Shopify Plus Wine Retailer](https://codepunklab.com/case-studies/italian-electronic-invoice-checkout/)** · Case study · 2026-08-13
-- **[Fixing a Default Shipping Method with a Delivery Customization Function and a Checkout UI Extension](https://codepunklab.com/case-studies/delivery-method-default-fix-checkout-extension/)** · Case study · 2026-08-13
-- **[Tiered Volume Discounts via Shopify Functions for a Shopify Plus Wine Retailer](https://codepunklab.com/case-studies/tiered-volume-discounts-shopify-functions/)** · Case study · 2026-08-13
 - **[Coordinating Shopify Functions and Checkout UI Extensions via Cart Attributes](https://codepunklab.com/patterns/function-checkout-extension-cart-attribute-coordination/)** · Pattern · 2026-08-13
 - **[Multi-Market Catalog Search Migration for a High-SKU Shopify Plus Wine Retailer](https://codepunklab.com/case-studies/multi-market-catalog-search-migration/)** · Case study · 2026-08-13
+- **[Hybrid Search Sort: Replica Index vs. Bounded Client-Side Sort](https://codepunklab.com/patterns/hybrid-search-sort-replica-index-client-side/)** · Pattern · 2026-08-13
+- **[Multi-Brand Catalog Replatforming to Shopify for a DIY Paint and Finishes Retailer](https://codepunklab.com/case-studies/multi-brand-catalog-replatforming/)** · Case study · 2026-08-12
 <!-- latest:end -->
 
 ---
