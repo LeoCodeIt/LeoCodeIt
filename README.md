@@ -69,8 +69,8 @@ What happens to a webhook handler after the happy path ends: duplicate deliverie
 Case studies and architecture patterns from real projects, anonymised. This list is regenerated weekly from the site.
 
 <!-- latest:start -->
+- **[ERP as the Single Source of Truth for Shopify Product Data](https://codepunklab.com/patterns/shopify-erp-single-source-of-truth/)** · Pattern · 2026-10-17
 - **[Italian Electronic Invoice Data Collection at Checkout for a Shopify Plus Wine Retailer](https://codepunklab.com/case-studies/italian-electronic-invoice-checkout/)** · Case study · 2026-08-13
-- **[Coordinating Shopify Functions and Checkout UI Extensions via Cart Attributes](https://codepunklab.com/patterns/function-checkout-extension-cart-attribute-coordination/)** · Pattern · 2026-08-13
 - **[Multi-Market Catalog Search Migration for a High-SKU Shopify Plus Wine Retailer](https://codepunklab.com/case-studies/multi-market-catalog-search-migration/)** · Case study · 2026-08-13
 - **[Hybrid Search Sort: Replica Index vs. Bounded Client-Side Sort](https://codepunklab.com/patterns/hybrid-search-sort-replica-index-client-side/)** · Pattern · 2026-08-13
 - **[Multi-Brand Catalog Replatforming to Shopify for a DIY Paint and Finishes Retailer](https://codepunklab.com/case-studies/multi-brand-catalog-replatforming/)** · Case study · 2026-08-12
